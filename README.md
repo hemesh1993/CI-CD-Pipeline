@@ -1,2 +1,3 @@
-# Hello---world
-Building Simple CI - CD pipeline
+# maven-project
+
+Simple Maven Project
